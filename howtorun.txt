@@ -1,0 +1,1 @@
+Go to '/lastmile2' directory and run "npm run dev" after installing dependencies with "npm install"
